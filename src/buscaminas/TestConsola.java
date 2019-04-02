@@ -12,7 +12,7 @@ public class TestConsola {
 			miTablero.ponerMina(0, 2);
 			miTablero.ponerMinas();
 			miTablero.imprime();
-			
+    		
 	}
 
 }

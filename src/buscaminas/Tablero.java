@@ -12,7 +12,7 @@ public class Tablero {
 	public Casilla[][] tableroInUse;
 	private dificultad dificultadInUse;
 	
-	int[] IN_USE= {0,0,0}; 
+	static int[] IN_USE= {0,0,0}; 
 	static final int[] HARD= {99,16,30};
 	static final int[] MEDIUM= {40,16,16};
 	static final int[] EASY= {10,8,8};

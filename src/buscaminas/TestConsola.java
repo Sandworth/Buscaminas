@@ -7,12 +7,10 @@ public class TestConsola {
 	public static void main(String[] args) {
 		
 		
-			miTablero.ponerMina(0, 0);
-			miTablero.ponerMina(2, 2);
-			miTablero.ponerMina(0, 2);
-			miTablero.ponerMinas();
-			miTablero.imprime();
-    		
+		miTablero.ponerMina(0, 0);
+		miTablero.ponerMina(2, 2);
+		miTablero.ponerMina(0, 2);
+		miTablero.imprime();
 	}
 
 }
